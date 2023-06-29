@@ -1,4 +1,4 @@
-# Analisi di affidabilità di un esempio di NFV
+# Analisi di affidabilità di un esempio di SFC con tecnologia NFV
 
 ## Gruppo
 * Luigi Ferraioli 0622701853
